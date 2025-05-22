@@ -1,0 +1,5 @@
+if then else
+stażniki 
+listy na 3 sposoby
+deklaracja dla całej klasy
+wyrażenie z kwantyfikatorem
